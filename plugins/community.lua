@@ -5,7 +5,8 @@ return {
   { import = "astrocommunity.colorscheme.kanagawa" },
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.gruvbox" }, -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
+  { import = "astrocommunity.colorscheme.gruvbox" },
+  { import = "astrocommunity.colorscheme.gruvbox-baby" },
 
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
